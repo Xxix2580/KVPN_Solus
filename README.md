@@ -7,5 +7,7 @@ Execute like below
 
 
 Refer to:
+
 https://gist.github.com/eugenetriguba/beb90e0bca7e5299436693d9b74a9853
+
 https://community.pulsesecure.net/t5/Pulse-Desktop-Clients/Unable-to-install-on-Ubuntu-18-04-PopOS/td-p/40987
