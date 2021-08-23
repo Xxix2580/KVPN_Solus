@@ -44,7 +44,7 @@ tar -zxf /tmp/pulsesecure_fix_sh/dat.tar.gz
 echo "Dealing with extra missing dependencies..."
 # Install libenchant.
 echo "Installing enchant16 package"
-sudo eopkg it enchant16
+eopkg it enchant16
 
 # Make an symbolic link to libwebp.so.6
 echo "Linking libwebp.so.7 as libwebp.so.6"
